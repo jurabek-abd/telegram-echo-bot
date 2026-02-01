@@ -1,7 +1,7 @@
 [project]
 name = "telegram-tutorial-bot"
 version = "0.1.0"
-description = "Add your description here"
+description = "Telegram Echo Bot created with the help of Official Telegram Bot Tutorial."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
